@@ -1,0 +1,7 @@
+***read me****
+==================
+1. You can provide labeled or unlabeled test data. If you provide labeled test data output will be accuracy matrix. And if you provide unlabeled data output will be count of each attack.
+2. Make sure you have JDK installed. You can check it by typing "java -version" in cmd.
+3. Go to the folder containing the jar file from cmd.
+4. Run the .jar(KNN.jar) file using the following command: java -jar [Jar file Name with jar extension] [trainingData File Location] [Testing Data File Location]
+5. The input file (training_attack_types) must be in the same folder.
